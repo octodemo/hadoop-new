@@ -18,12 +18,12 @@
   <parent>
     <groupId>org.apache.hadoop</groupId>
     <artifactId>hadoop-project</artifactId>
-    <version>0.24.0-SNAPSHOT</version>
+    <version>3.4.0</version>
     <relativePath>../hadoop-project</relativePath>
   </parent>
   <groupId>org.apache.hadoop</groupId>
   <artifactId>hadoop-mapreduce</artifactId>
-  <version>0.24.0-SNAPSHOT</version>
+  <version>3.4.0</version>
   <packaging>pom</packaging>
   <name>hadoop-mapreduce</name>
   <url>http://hadoop.apache.org/mapreduce/</url>
@@ -46,7 +46,7 @@
     <dependency>
       <groupId>com.google.protobuf</groupId>
       <artifactId>protobuf-java</artifactId>
-      <version>2.4.0a</version>
+      <version>3.25.5</version>
     </dependency>
     <dependency>
       <groupId>org.apache.avro</groupId>
